@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/grandom-library/fnv1a/compare/v1.0.1...v1.0.2) (2023-08-24)
+
+
+### Performance Improvements
+
+* **deps:** update dependencies ([d1b3069](https://github.com/grandom-library/fnv1a/commit/d1b306902277f6c4ef0ad304ae1bfd7bbaa5aaf6))
+
 ## [1.0.1](https://github.com/grandom-library/fnv1a/compare/v1.0.0...v1.0.1) (2023-08-24)
 
 
