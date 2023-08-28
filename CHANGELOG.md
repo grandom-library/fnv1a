@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/grandom-library/fnv1a/compare/v1.0.2...v1.0.3) (2023-08-28)
+
+
+### Performance Improvements
+
+* **deps:** bump @rollup/plugin-typescript from 11.1.2 to 11.1.3 ([ab77e52](https://github.com/grandom-library/fnv1a/commit/ab77e524c3a03b35b178d6cc7277302ffd024a96))
+
 ## [1.0.2](https://github.com/grandom-library/fnv1a/compare/v1.0.1...v1.0.2) (2023-08-24)
 
 
