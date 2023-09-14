@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/grandom-library/fnv1a/compare/v1.0.4...v1.0.5) (2023-09-14)
+
+
+### Performance Improvements
+
+* **deps:** bump rollup from 3.29.0 to 3.29.1 ([2230f4b](https://github.com/grandom-library/fnv1a/commit/2230f4b6f896b6cda43e2b0b96f9c430ca43bf1f))
+
 ## [1.0.4](https://github.com/grandom-library/fnv1a/compare/v1.0.3...v1.0.4) (2023-09-07)
 
 
