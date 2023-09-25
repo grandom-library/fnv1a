@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/grandom-library/fnv1a/compare/v1.0.6...v1.0.7) (2023-09-25)
+
+
+### Performance Improvements
+
+* **deps:** bump @types/jest from 29.5.4 to 29.5.5 ([424f589](https://github.com/grandom-library/fnv1a/commit/424f589da238cb3cfd3c659cc746d11180757b3d))
+
 ## [1.0.6](https://github.com/grandom-library/fnv1a/compare/v1.0.5...v1.0.6) (2023-09-14)
 
 
